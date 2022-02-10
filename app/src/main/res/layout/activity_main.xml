@@ -20,7 +20,7 @@
         app:layout_constraintVertical_bias="0.381" />
 
     <TextView
-        android:id="@+id/maslo_text_jak"
+        android:id="@+id/haslo_jak"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Jak silne masz hasło:"
@@ -40,7 +40,7 @@
         app:layout_constraintHorizontal_bias="0.683"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
-        app:layout_constraintStart_toEndOf="@+id/maslo_text_jak"
+        app:layout_constraintStart_toEndOf="@+id/haslo_jak"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.469" />
 
